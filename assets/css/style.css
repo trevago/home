@@ -13,6 +13,14 @@ a:hover {
   text-decoration: none;
 }
 
+nav a {
+  color: white;
+}
+
+#navbar-nav {
+  color: white;
+}
+
 h1,
 h2,
 h3,

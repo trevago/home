@@ -1,0 +1,45 @@
+body { 
+	background-color: CadetBlue;
+	background-image: url('html2.jpg');
+	background-size: 40% 40%;
+}
+h1 {
+	color: white;
+	font-family: forte;
+	font-size: 60px;
+	letter-spacing: 3px;
+}
+h2 {
+	color: white;
+	font-family: forte;
+	font-size: 25px;
+	letter-spacing: 2px
+}
+h3 {
+	color: white;
+	font-family: forte;
+	font-size: 30px;
+	letter-spacing: 1px;
+}
+form {
+	color: white;
+	font-family: forte;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+textarea {
+	width: 1000px;
+	height: 50px;
+}
+.button {
+	background-color: #96B4D0;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
